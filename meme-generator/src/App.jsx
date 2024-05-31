@@ -1,5 +1,9 @@
 import React from "react";
 
 export default function App() {
-  return <h1>React + Vite</h1>;
+  return (
+    <div>
+      <header />
+    </div>
+  );
 }
